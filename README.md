@@ -1,4 +1,3 @@
-- 👋 Hi, I’m @K1ngC001
-- 👀 I’m interested in coding addons for websites, Youtube, Gmail, ect...
-- 🌱 I’m currently learning how to get better at coding on Scratch.
-- 📫 Reach me at bit.ly/3be3QAI
+- uhh
+- yeah
+- that's me
